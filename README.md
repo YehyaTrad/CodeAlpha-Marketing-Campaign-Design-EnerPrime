@@ -52,8 +52,5 @@ All charts are based on realistic industry benchmarks and consumer trends.
 ```plaintext
 📁 CodeAlpha-Marketing-Campaign-Design-EnerPrime
  ├── 📄 EnerPrime_Marketing_Campaign_Presentation.pptx
- ├── 📊 Chart_Data
- │    
- │
- │    
+ ├── 📊 Chart_Data  
  └── 📄 README.md
